@@ -2,6 +2,3 @@ son: lam viec 1
 <<<<<<< HEAD
 cam: lam viec 2
 son+cam: lam viec 4
-=======
-cam: lam viec 2
->>>>>>> fb04e11a3ef18caafed469326c0c31344bfe4ca2
