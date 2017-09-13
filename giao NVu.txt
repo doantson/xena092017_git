@@ -1,2 +1,2 @@
-Son: lam viec 1
-Cam: lam viec 2
+son: lam viec 1
+cam: lam viec 2
